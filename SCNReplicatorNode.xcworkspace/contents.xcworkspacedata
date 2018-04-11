@@ -13,4 +13,7 @@
    <FileRef
       location = "group:ReplicatorSample4/ReplicatorSample4.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:ReplicatorSample5/ReplicatorSample5.xcodeproj">
+   </FileRef>
 </Workspace>
