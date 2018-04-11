@@ -7,4 +7,10 @@
    <FileRef
       location = "group:ReplicatorSample2/ReplicatorSample2.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:ReplicatorSample2/../ReplicatorSample3/ReplicatorSample3.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ReplicatorSample4/ReplicatorSample4.xcodeproj">
+   </FileRef>
 </Workspace>
